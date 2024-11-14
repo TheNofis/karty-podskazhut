@@ -1,0 +1,19 @@
+.footer {
+  background-color: var(--bg-color);
+}
+
+.footer__copyright {
+  color: var(--text-color);
+  font-size: 18px;
+  text-align: center;
+  line-height: 36px;
+  font-family: var(--main-font);
+
+  background-color: var(--bg-color);
+  border-top: 1px solid var(--text-color);
+
+  margin-top: 10vw;
+  padding: 1vw 0;
+
+  font-weight: normal;
+}
